@@ -1,0 +1,6 @@
+[submodule "Node-ecommerce"]
+	path = Node-ecommerce
+	url = https://github.com/lovishduggal/Node-ecommerce.git
+[submodule "react-ecommerce"]
+	path = react-ecommerce
+	url = https://github.com/lovishduggal/react-ecommerce.git
