@@ -4,8 +4,6 @@
 
 The E-commerce web application, powered by the MERN stack (MongoDB, Express.js, React.js, and Node.js), delivers a seamless online shopping experience. With a focus on user-friendly interactions and secure transactions, it efficiently manages and facilitates online transactions. MongoDB ensures efficient data storage, while React.js offers a responsive and interactive user interface. This E-commerce solution is a modern, comprehensive platform for online retail, addressing the diverse needs of users in the digital marketplace.
 
-This is an E-commerce web application powered by the MERN stack that delivers a seamless, secure, and user-friendly online shopping experience. MongoDB ensures efficient data storage, while React.js offers a responsive and interactive user interface.
-
 # **Key Features:**
 
 - Basic E-commerce Features- Product lists, Product Details, Cart, Checkout
