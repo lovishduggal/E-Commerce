@@ -23,7 +23,7 @@ The E-commerce web application, powered by the MERN stack (MongoDB, Express.js, 
 - **Database:** MongoDB Cloud for scalable and flexible data storage.
 - **Nodemailer:** Sending mails **u**sing the G-Mail SMTP system.
 - **Stripe:**  Payment-Intent-based custom flow.
-- **Deployment:** Deployment on cloud platforms like Vercel for scalability and accessibility.
+- **Deployment:** Deployment on cloud platforms like Render for scalability and accessibility.
 
 # **Key Learnings:**
 
